@@ -1,0 +1,9 @@
+Đây là hướng dẫn fix lỗi máy in mã 00709.
+Hướng dẫn này sẽ thay thế file hệ thống liên quan in bằng file Windows 10.
+Chỉ dùng khi gặp lỗi mà không còn cách nào khác.
+============================================
+Nên chạy phần mềm trong mục FixPrintSpooler trước khi dùng cách này.
+1. Nhấp đúp chạy file regfixes.reg
+2. Nhấp chuột phải vào file SpoolerFix.bat và chọn Run as administrator
+Đợi đến khi hoàn tất.
+============================================
