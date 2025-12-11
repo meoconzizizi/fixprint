@@ -1,7 +1,7 @@
 @echo off
 setlocal EnableExtensions DisableDelayedExpansion
 :: ============================================================
-::  Fix Printer - TuGzingzing Tool - All-in-one (FINAL)
+::  Fix Printer - TuGG Tool - All-in-one (FINAL)
 ::  Muc 5: bam la chay FULL CLEAN DriverStore
 :: ============================================================
 
@@ -10,7 +10,7 @@ net session >nul 2>&1 || (powershell -NoProfile -Command "Start-Process -FilePat
 
 :: ---------- Console ----------
 mode con: cols=90 lines=30
-title Fix Printer - Bach Tinh Phong Tool - All-in-one
+title Fix Printer - TuGG Tool - All-in-one
 
 :: >>> Jump to MENU <<<
 goto MENU
